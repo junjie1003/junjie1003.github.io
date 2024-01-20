@@ -8,4 +8,4 @@
 
 - ``ASE 2022 (CCF-A)`` [**Learning to Construct Better Mutation Faults**](https://dl.acm.org/doi/abs/10.1145/3551349.3556949), Zhao Tian, Junjie Chen, Qihao Zhu, **Junjie Yang**,  Lingming Zhang \| [**Code**](https://github.com/tianzhaotju/LEAM)  
 
-🏆 <span style="color:red"><strong> ACM SIGSOFT Distinguished Paper Award </strong></span>
+       🏆 <span style="color:red"><strong> ACM SIGSOFT Distinguished Paper Award </strong></span>
