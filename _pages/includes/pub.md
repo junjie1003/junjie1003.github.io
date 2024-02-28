@@ -1,6 +1,6 @@
 # 📑 Publications
 
-<sub><sup>Note: The authors marked with "#" are equal contributors to the paper and their names are sorted in alphabetic order by last or first name, marked with "*" are corresponding authors.</sup></sub>
+<span style="font-size: 14px; color: gray;"><sub><sup>Note: The authors marked with "#" are equal contributors to the paper and their names are sorted in alphabetic order by last or first name, marked with "*" are corresponding authors.</sup></sub></span>
 
 ## ⚖️ Fairness
 
