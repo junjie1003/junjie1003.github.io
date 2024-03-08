@@ -4,7 +4,7 @@
 
 ## ⚖️ Fairness
 
-- ``ISSTA'24 (CCF-A)`` [**A Large-scale Empirical Study on Improving the Fairness of Deep Learning Models**](https://arxiv.org/abs/2401.03695) \[[**PDF**]\] \[[**Code**](https://github.com/junjie1003/DL-Fairness-Study)\]  
+- ``ISSTA'24 (CCF-A)`` [**A Large-scale Empirical Study on Improving the Fairness of Image Classification Models**](https://arxiv.org/abs/2401.03695) \[[**PDF**]\] \[[**Code**](https://github.com/junjie1003/DL-Fairness-Study)\]  
 **Junjie Yang**, [Jiajun Jiang\*](https://xgdsmileboy.github.io/), [Zeyu Sun](https://zysszy.github.io/), [Junjie Chen](https://sites.google.com/site/junjiechen08/)
 
 - ``TOSEM'23 (CCF-A)`` [**A Post-Training Framework for Improving the Performance of Deep Learning Models via Model Transformation**](https://dl.acm.org/doi/10.1145/3630011) \[[**PDF**](../../publications/tosem23-fairness.pdf)\] \[[**Code**](https://github.com/junjie1003/FMT)\]  
